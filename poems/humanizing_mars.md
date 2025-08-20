@@ -53,4 +53,4 @@ Her patient frown holds
 ## About
 These haikus capture the awe and challenge of colonizing Mars, inspired by Starship’s journey. Check out my Starship Flight Test 10 poem puzzle in `scripts/starship10/` for a techy, cheeky ode to the mission, and see my full Chief Poet vision in the repo’s main `README.md`!
 
-Join the cosmic journey on X with #ChiefPoetSpaceX and tag @SpaceX! 🚀😉
+Join the cosmic journey on X with #ChiefPoetSpaceX and tag @AnnDiegoUSA and @SpaceX! 🚀😉

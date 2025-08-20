@@ -1,11 +1,8 @@
-import platform
-import asyncio
-
-# ASCII art for a Falcon 9-inspired rocket
-ROCKET_ART = """
+# ASCII art for a Falcon 9-inspired rocket (no leading/trailing newlines for clean rendering)
+ROCKET_ART = r"""
    /\
-  /  \\
- /____\\
+  /  \
+ /____\
  |    |
  |    |
  |    |
@@ -14,9 +11,10 @@ ROCKET_ART = """
   ||||
 """
 
-async def print_poem():
-    # Falcon's Fire poem
-    poem = """Beneath the velvet night, stars pierce the dark,
+# Falcon's Fire poem
+poem = """#Falcon's Fire - inspired by Falcon 9 flights
+
+Beneath the velvet night, stars pierce the dark,
 A rocket’s trail blazes, a stallion’s clear arc.
 White plume gallops, free against the black,
 We crane our necks, hearts racing, no turning back.
@@ -64,17 +62,7 @@ The weight of the stars, the pride of “It’s done.”
 From earth to the cosmos, we reach, we ignite,
 In the rocket’s bright trail, our dreams come alive."""
 
-    # Print with ASCII art frame
-    print(ROCKET_ART)
-    print(poem)
-    print(ROCKET_ART)
-
-# Pyodide-compatible async main
-async def main():
-    await print_poem()
-
-if platform.system() == "Emscripten":
-    asyncio.ensure_future(main())
-else:
-    if __name__ == "__main__":
-        asyncio.run(main())
+# Print with ASCII art frame
+print(ROCKET_ART)
+print(poem)
+print(ROCKET_ART)

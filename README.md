@@ -2,7 +2,7 @@
 
 Chief Poet's Cosmic Verse
 
-Hello, SpaceX dreamers and star-chasers! I’m Ann Adamson, aspiring Chief Poet of SpaceX, here to ignite wonder through words that soar like a Falcon 9. My mission? To capture the thrill of launches, the awe of boosters landing, and the shared heartbeat of a team reaching for the cosmos. This repo is my poetic resume—-a collection of verses and code that celebrates SpaceX’s audacity and the power of human dreams.
+Hello, SpaceX dreamers and star-chasers! I’m Ann Adamson, aspiring Chief Poet of SpaceX (now SpaceXAI), here to ignite wonder through words that soar like a Falcon 9. My mission? To capture the thrill of launches, the awe of boosters landing, and the shared heartbeat of a team reaching for the cosmos. This repo is my poetic resume—-a collection of verses and code that celebrates SpaceX’s audacity and the power of human dreams.
 
 Why Chief Poet?
 
@@ -23,9 +23,13 @@ Hand in yours, squeezing tight, on tip-toes high,Leaning back, mirroring that ar
 
 Run scripts/poem_printer.py to see the full poem framed in cosmic ASCII glory.
 
+The xAI angle and Grok
+
+Now that xAI has merged into SpaceXAI, I am going to work to broaden the scope of my project here to include more AI related content as well!  Stay tuned!
+
 Let’s Make It Happen
 
-SpaceX, you’ve redefined what’s possible—now let’s create the Chief Poet role to celebrate your missions with words that inspire the world. Check out my poems, run the code, and let’s dream up a future where poetry and rockets launch together. Reach out on X @AnnDiegoUSA to talk verse, vibes, and the stars.
+SpaceXAI, you’ve redefined what’s possible—now let’s create the Chief Poet role to celebrate your missions with words that inspire the world. Check out my poems, run the code, and let’s dream up a future where poetry and rockets launch together. Reach out on X @AnnDiegoUSA to talk verse, vibes, and the stars.
 To the cosmos, we ignite
 
 Ann Adamson, Aspiring *Honorary* Chief Poet

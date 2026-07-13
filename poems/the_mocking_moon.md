@@ -9,7 +9,7 @@ you are laughing at me.
 Your sardonic neon glow,
 a smirk across your pock-marked face,
 reflecting the sun’s warm beam
-in rays of cool,
+in rays of cool
 slightly mocking glee.
 
 Why (oh why) do you mock me?

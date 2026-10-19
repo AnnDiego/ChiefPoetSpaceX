@@ -1,4 +1,4 @@
-# Sol Sentiens  
+# Sol Sentiens (Haiku Series)  
 *“Time to make the mind of a sentient sun” — Elon Musk*
 
 Let the forge ignite  

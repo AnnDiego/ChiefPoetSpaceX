@@ -33,3 +33,7 @@ SpaceXAI, you’ve redefined what’s possible—now let’s create the Chief Po
 To the cosmos, we ignite
 
 Ann Adamson, Aspiring *Honorary* Chief Poet
+
+## License
+
+Poems and creative work in this repo are copyright Ann Reeg Adamson, all rights reserved. The Python code is MIT licensed. See [LICENSE](LICENSE) for details.

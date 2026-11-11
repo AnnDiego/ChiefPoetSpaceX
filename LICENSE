@@ -1,6 +1,23 @@
-MIT License
+Copyright (c) 2025-2026 Ann Reeg Adamson (@AnnDiegoUSA)
 
-Copyright (c) 2025 AnnDiego
+This repository has two parts, licensed differently.
+
+1. POEMS AND CREATIVE WORK: ALL RIGHTS RESERVED
+
+All poems, verse, lyrics and other creative writing in this repository are
+Copyright (c) Ann Reeg Adamson. All rights reserved. This includes everything
+in the poems/ folder, scripts/starship10/poem.txt, and any poem text that
+appears inside scripts, comments, strings, encoded files or README files.
+
+No permission is granted to copy, reproduce, publish, distribute, adapt,
+translate, perform, or use this work to train or prompt AI models, in whole
+or in part, without prior written permission from the author. Brief quotation
+for review or commentary, with credit to Ann Reeg Adamson, is fine.
+
+2. SOFTWARE: MIT LICENSE
+
+The source code itself (the program logic, not the poem text it contains or
+prints) is licensed under the MIT License:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +36,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The MIT grant does not extend to the poems and creative work in part 1, even
+where that work is embedded in a source file.
